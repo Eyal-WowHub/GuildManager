@@ -1,0 +1,18 @@
+## Interface: 100205
+
+## Title: Guild|cff40a5f7Manager|r
+## Notes: Provides enhancements to manage the guild roster.
+## Author: Eyal Alon
+
+## DefaultState: disabled
+
+Main.lua
+
+Core\Addon.lua
+Core\Realm.lua
+Core\Character.lua
+Core\Roster.lua
+
+Scripts\JoinDateSynchronization.lua
+
+Options.lua
