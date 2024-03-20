@@ -1,4 +1,4 @@
-## Interface: 100205
+## Interface: 100206
 
 ## Title: Guild|cff40a5f7Manager|r
 ## Notes: Provides enhancements to manage the guild roster.
