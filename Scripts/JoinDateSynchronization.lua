@@ -6,7 +6,6 @@ JoinDateSynchronization:RegisterLoadOnDemand("Blizzard_Communities", function()
     local parent = CommunitiesFrame
     local controlFrame = parent.CommunitiesControlFrame
     local logButton = controlFrame.GuildControlButton
-
     local syncDatesButton = CreateFrame("Button", nil, logButton, "UIPanelButtonNoTooltipTemplate")
     syncDatesButton:SetSize(130, 20)
     syncDatesButton:SetPoint("RIGHT", logButton, "LEFT", 0, 0)
